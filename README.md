@@ -1,1 +1,1 @@
-![](Recording.gif)
+![](RecordingFrontend.gif)
